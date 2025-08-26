@@ -35,7 +35,7 @@ The top factors influencing customer churn were identified as:
 - **Tenure**: Customers with shorter tenure are more likely to leave.
 - **Monthly Charges**: Higher monthly charges are correlated with higher churn rates.
 
-![Feature Importance Plot](path/to/your/saved/plot.png) ## 5. Deployment
+![Feature Importance Plot](images/output.png) ## 5. Deployment
 A simple web application was built using **Streamlit** to serve the model. The app allows a user to input customer details and receive a real-time churn probability prediction.
 
 
